@@ -1,2 +1,3 @@
 it contains employee information 
 the data it will be stored in company
+like emp id, emp salary, emp leaves ...
